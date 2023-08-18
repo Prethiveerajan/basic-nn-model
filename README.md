@@ -122,3 +122,4 @@ Find the test data root mean squared error
 Include your sample input and output here
 
 ## RESULT
+Thus a neural network regression model for the given dataset is written and executed successfully.
