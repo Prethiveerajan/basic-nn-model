@@ -109,17 +109,7 @@ ai_brain.predict(x_n1_1)
 
 
 
-### Training Loss Vs Iteration Plot
 
-Include your plot here
-
-### Test Data Root Mean Squared Error
-
-Find the test data root mean squared error
-
-### New Sample Data Prediction
-
-Include your sample input and output here
 
 ## RESULT
 Thus a neural network regression model for the given dataset is written and executed successfully.
